@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC389b9FB02F7e1bb26405Dbd815AA24f610CF287",
+  "SCAN_LINK": "https://etherscan.io/address/0xC389b9FB02F7e1bb26405Dbd815AA24f610CF287",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "BaiHu",
+  "SYMBOL": "BaiHu",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": false
+}

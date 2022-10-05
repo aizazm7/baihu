@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xC389b9FB02F7e1bb26405Dbd815AA24f610CF287",
-  "SCAN_LINK": "https://etherscan.io/address/0xC389b9FB02F7e1bb26405Dbd815AA24f610CF287",
+  "CONTRACT_ADDRESS": "0x06D9f3F47516Cb06cB70fa82D4580dE978b6E4fc",
+  "SCAN_LINK": "https://etherscan.io/address/0x06d9f3f47516cb06cb70fa82d4580de978b6e4fc",
   "NETWORK": {
     "NAME": "Ethereum Mainnet",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "BaiHu",
-  "SYMBOL": "BaiHu",
-  "MAX_SUPPLY": 500,
+  "NFT_NAME": "Shinei Collector Pass",
+  "SYMBOL": "SCP",
+  "MAX_SUPPLY": 1000,
   "WEI_COST": 0,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/shineicollectorpass",
   "SHOW_BACKGROUND": false
 }

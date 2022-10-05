@@ -39,21 +39,21 @@ const Index = () => {
   const [feedback, setFeedback] = useState(`Click buy to mint your NFT.`);
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
-    CONTRACT_ADDRESS: "",
-    SCAN_LINK: "",
+    CONTRACT_ADDRESS: "0x06D9f3F47516Cb06cB70fa82D4580dE978b6E4fc",
+    SCAN_LINK: "https://etherscan.io/address/0x06d9f3f47516cb06cb70fa82d4580de978b6e4fc",
     NETWORK: {
-      NAME: "",
-      SYMBOL: "",
-      ID: 0,
+      NAME: "Ethereum Mainnet",
+      SYMBOL: "ETH",
+      ID: 1,
     },
-    NFT_NAME: "",
-    SYMBOL: "",
-    MAX_SUPPLY: 1,
+    NFT_NAME: "Shinei Collector Pass",
+    SYMBOL: "SCP",
+    MAX_SUPPLY: 1000,
     WEI_COST: 0,
     DISPLAY_COST: 0,
-    GAS_LIMIT: 0,
-    MARKETPLACE: "",
-    MARKETPLACE_LINK: "",
+    GAS_LIMIT: 285000,
+    MARKETPLACE: "Opeansea",
+    MARKETPLACE_LINK: "https://opensea.io/collection/shineicollectorpass",
     SHOW_BACKGROUND: false,
   });
 

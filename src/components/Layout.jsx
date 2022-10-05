@@ -6,7 +6,7 @@ export default function Layout({ children }) {
   return (
     <div className="mx-auto max-w-[1440px]">
       <Head>
-        <title>Baihu NFT</title>
+        <title>Shinei Labs</title>
       </Head>
       
       <main className="mobile:mt-[57px] ipad:mt-[80px]">

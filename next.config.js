@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     loader: 'imgix',
-    path: 'https://baihunft.com/',
+    path: 'https://shineilabs.xyz/',
   },
 }
 
